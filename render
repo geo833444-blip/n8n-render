@@ -1,0 +1,4 @@
+git clone https://github.com/geo833444-blip/n8n-render.git
+cd n8n-render
+npm init -y
+npm install n8n
